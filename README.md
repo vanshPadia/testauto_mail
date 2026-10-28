@@ -4,3 +4,4 @@
 * test -3 last final 
 * test -re test
 * new -test -try to close
+*new final test
